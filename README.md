@@ -1,9 +1,9 @@
 <p align=center>
     <a>
         <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/main/Media/Logos/logo-whitetext.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/main/Media/Logos/logo.svg">
-  <img alt="OITSWILLIAMV0" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/main/Media/Logos/logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/master/Media/Logos/logo-whitetext.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/master/Media/Logos/logo.svg">
+  <img alt="OITSWILLIAMV0" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/master/Media/Logos/logo.svg">
 </picture>
     </a>
 </p>
