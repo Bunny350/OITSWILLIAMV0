@@ -8,15 +8,13 @@ This folder contains essential components of As-is top hat mod.
 You may print all the parts in this folder, but not this folder's subfolders, in which you may print either one of the versions of side panels, normal, thick or ultra-thick.
 
 ### Side panels foam taping
-I choose the normal version, although it might be a failure, but I have a ton of foam tapes lying around that serves no purpose other than sealing in my Voron printers. However, there are requirements in which the thickness the foam tape is needed.
-
-* Normal version requres at least 5 to 6mm foam tape, or stack three 2mm thick foam tapes.
+There are requirements in which the thickness the foam tape is needed.
 * Thick version requires at least 3mm thick foam tapes.
 * Ultra-thick version does not require any foam tapes in the side. It is optional.
 
 ## Assembling As-is top hat
 
-Oitswilliam Pang made a simple design that makes the top hat mod assembly easy, these mount covers are directional, and they need to be faced.
+Oitswilliam Pang made a simple design that makes the top hat mod assembly easy, these mount covers are directional, and they need to be faced. Front and back has mount offsets, while the side spacing brackets are thicker.
 
 Re-printing V0.1 top hat is not required, if you have one that isn't been disassembled or salvaged.
 
