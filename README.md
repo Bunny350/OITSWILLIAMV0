@@ -44,7 +44,7 @@ OITSWILLIAMV0 also contains a mod that is used to reduce waste by keeping V0.1 t
 * Minimum 2x or up to 4x M3x12mm BHCS
 
 #### Extended skirt legs
-* 4x M3x55-60mm SHCS / BHCS
+* 4x M3x55mm SHCS / BHCS
 
 #### Rosalina Theme front covers
 * Both left and right
@@ -62,24 +62,24 @@ OITSWILLIAMV0 also contains a mod that is used to reduce waste by keeping V0.1 t
 #### Total (normal, without top hat)
 * 2x M3x6mm BHCS
 * 2x (without fan), 4x or 6x M3x12mm BHCS
-* 4x M3x55-60mm SHCS / BHCS
+* 4x M3x55mm SHCS / BHCS
 
 #### Total (with Rosalina Theme, without top hat)
 * 6x M3x6mm BHCS
 * 2x (without fan), 4x or 6x M3x12mm BHCS
-* 4x M3x55-60mm SHCS / BHCS
+* 4x M3x55mm SHCS / BHCS
 
 #### Total (normal, with top hat)
 * 16x M2x10mm Self-tapping screws
 * 10x M3x6mm BHCS
 * 2x (without fan), 4x or 6x M3x12mm BHCS
-* 4x M3x55-60mm SHCS / BHCS
+* 4x M3x55mm SHCS / BHCS
 
 #### Total (with Rosalina Theme, without top hat)
 * 16x M2x10mm Self-tapping screws
 * 14x M3x6mm BHCS
 * 2x (without fan), 4x or 6x M3x12mm BHCS
-* 4x M3x55-60mm SHCS / BHCS
+* 4x M3x55mm SHCS / BHCS
 
 "But can you compare with the normal V0.2?" Heck yes!
 
