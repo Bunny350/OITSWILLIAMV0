@@ -16,7 +16,7 @@ Mod Repository for Voron 0.2
 
 # OITSWILLIAMV0
 
-OITSWILLIAMV0 is a mod project for Voron Zero 3D printer after OITSWILLIAMV2. It comes with two different skirt themes, extended skirts and keeps some stock elements.
+OITSWILLIAMV0 is a mod project for [Voron Zero](https://github.com/VoronDesign/Voron-0) 3D printer after OITSWILLIAMV2. It comes with two different skirt themes, extended skirts and keeps some stock elements.
 
 This mod project goes different, it is to redefine usability without making it look completely different.
 
