@@ -1,5 +1,3 @@
-Work in progress.
-
 <p align=center>
     <a>
         <picture>
@@ -9,12 +7,15 @@ Work in progress.
 </picture>
     </a>
 </p>
+Project is being constantly updated. 
 
-<img alt="Voron Zero printers with OITSWILLIAMV0 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/For-V0.2/Media/OITSWILLIAMV0.png">
+# OITSWILLIAMV0
+
+<img alt="V0.2 + OITSWILLIAMV0 mod" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV0/For-V0.2/Media/v0-oitswilliamv0-p1-finale.jpg">
 
 Mod Repository for Voron 0.2
 
-# OITSWILLIAMV0
+* Currently featured in V0.2378!
 
 OITSWILLIAMV0 is a mod project for [Voron Zero](https://github.com/VoronDesign/Voron-0) 3D printer after OITSWILLIAMV2. It comes with two different skirt themes, extended skirts and keeps some stock elements.
 
