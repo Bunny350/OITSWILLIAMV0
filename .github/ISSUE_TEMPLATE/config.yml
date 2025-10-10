@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Report battery quality concerns
-    url: emailto:yo+battery@oitswilliam.com
+    url: mailto:yo+battery@oitswilliam.com
     about: If the battery has problems, such as overheating or excessive sag, please choose here to email Oitswilliam directly. Other people will not see these messages.
   - name: Other support links
     url: https://www.oitswilliam.com/support
