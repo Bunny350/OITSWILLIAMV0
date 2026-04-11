@@ -26,9 +26,9 @@ This mod project goes different, it is to redefine usability without making it l
 | -------------- | ------------- |
 | Extended skirt | Released |
 | As-is top hat  | Released |
-| EXS (full name restricted to followers)  | Alpha-EA |
+| EXS (full name restricted to followers and be spoken by them...)  | Alpha-EA |
 
-* Note: ALpha-EA projects are made exclusive to the followers of Oitswilliam Pang. If you want to opt-in and access, please [follow Oitswilliam Pang on Facebook and Instagram, and then join OITSWILLIAM PANG Discord chat server](https://www.oitswilliam.com/media) and [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe9aEM7jyf0lV2PUAgOg0_tz9F7GI91byWFxUzvXsLlXambJA/viewform?usp=header).
+* Note: Alpha-EA projects are made exclusive to the followers of Oitswilliam Pang. If you want to opt-in and access, please [follow Oitswilliam Pang on Facebook and Instagram, and then join OITSWILLIAM PANG Discord chat server](https://www.oitswilliam.com/media) and [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe9aEM7jyf0lV2PUAgOg0_tz9F7GI91byWFxUzvXsLlXambJA/viewform?usp=header).
 
 ## Extended skirt
 OITSWILLIAMV0's main feature is the extended skirt, which adds additional 16mm not just to fit 40mm fans to cool down electronics. In front, left and right sides, it uses Trident skirts that are not scaled down, but cut down.
