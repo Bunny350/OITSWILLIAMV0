@@ -15,7 +15,7 @@ Project is being constantly updated.
 
 Mod Repository for Voron 0.2
 
-* Currently featured in V0.2378!
+* Currently featured in V0.2378[^config-on-other-side]!
 
 OITSWILLIAMV0 is a mod project for [Voron Zero](https://github.com/VoronDesign/Voron-0) 3D printer after OITSWILLIAMV2. It comes with two different skirt themes, extended skirts and keeps some stock elements.
 
@@ -28,7 +28,7 @@ This mod project goes different, it is to redefine usability without making it l
 | As-is top hat  | Released |
 | EXS (full name restricted to followers and be spoken by them...)  | Alpha-EA |
 
-* Note: Alpha-EA projects are made exclusive to the followers of Oitswilliam Pang. If you want to opt-in and access, please [follow Oitswilliam Pang on Facebook and Instagram, and then join OITSWILLIAM PANG Discord chat server](https://www.oitswilliam.com/media) and [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSe9aEM7jyf0lV2PUAgOg0_tz9F7GI91byWFxUzvXsLlXambJA/viewform?usp=header).
+* Note: Alpha-EA projects are made exclusive to the followers of Oitswilliam Pang. If you want to opt-in and access, please [follow Oitswilliam Pang on Facebook and Instagram, and then join OITSWILLIAM PANG Discord chat server](https://www.oitswilliam.com/media) and fill out the follower access form[^config-on-other-side].
 
 ## Extended skirt
 OITSWILLIAMV0's main feature is the extended skirt, which adds additional 16mm not just to fit 40mm fans to cool down electronics. In front, left and right sides, it uses Trident skirts that are not scaled down, but cut down.
@@ -99,3 +99,5 @@ As you can see, the righthand is Voron 0.2 with OITSWILLIAMV0 mod. it has the bi
 ## Other goals
 This project has other goals, including:
 * Single fan for side skirt
+
+[^config-on-other-side]: The configuration files for the following printers are not included in this repository, only organized, specific and cleaned-up. To get V0.2378's exact configuration files, you must be a follower of Oitswilliam Pang and then get follower-exclusive features through [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9aEM7jyf0lV2PUAgOg0_tz9F7GI91byWFxUzvXsLlXambJA/viewform?usp=header). Other steps are provided from the form.
