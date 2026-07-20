@@ -17,7 +17,7 @@ Mod Repository for Voron 0.2
 
 * Currently featured in V0.2378[^config-on-other-side]!
 
-OITSWILLIAMV0 is a mod project for [Voron Zero](https://github.com/VoronDesign/Voron-0) 3D printer after OITSWILLIAMV2. It comes with two different skirt themes, extended skirts and keeps some stock elements.
+OITSWILLIAMV0 is a mod project for [Voron Zero](https://github.com/VoronDesign/Voron-0) 3D printer after OitswilliamV2. It comes with two different skirt themes, extended skirts and keeps some stock elements.
 
 This mod project goes different, it is to redefine usability without making it look completely different.
 
@@ -27,9 +27,13 @@ This mod project goes different, it is to redefine usability without making it l
 | Extended skirt | Released |
 | As-is top hat  | Released |
 | Exhaust XS     | Released |
+| Back skirt with ThinkBook 14s fans | Experimental, early access |
 
 ## Extended skirt
 OITSWILLIAMV0's main feature is the extended skirt, which adds additional 16mm not just to fit 40mm fans to cool down electronics. In front, left and right sides, it uses Trident skirts that are not scaled down, but cut down.
+
+### Variant with ThinkBook 14s fans mounting
+This variant is the way where we make 3D printers sound different. This replaces the original's 3510 axial fans.
 
 ## As-is top hat
 OITSWILLIAMV0 also contains a mod that is used to reduce waste by keeping V0.1 top hat while adding the Cam locks that are introduced for V0.2 extrusion top hat. This mod adds 15mm spacing just for hinges, is made to not use heat seat inserts and can be printed on V0's limited build volume.
@@ -49,15 +53,21 @@ Exhaust XS is a *different* type of exhaust unit made for Voron 0. It is intende
 
 * [Exhaust XS BOM](https://docs.google.com/spreadsheets/d/1qKHTR9wy5eDcJ8kGZrhbsqijIHyDv_TbETnKIMAwmbk/edit?usp=sharing)
   
-* Back skirt
+* Back skirt (legacy)
+    * 1x 4010 axial fan
+    * 4x M3x16mm BHCS
+    * 4X M3x5x4 heat-set inserts
+  
+* Back skirt (with ThinkBook fans)
     * 1x ThinkBook 14s cooling fan (big)
     * 6x M2x10mm self-tapping screws
 
-* Extended skirt legs
+* Extended skirt legs (*dc_usb-c_sbc_exhaust_extended_skirt_middle.stl* + *dc_usb-c_sbc_exhaust_extended_skirt_top.stl*)
     * 4x M3x55mm SHCS / BHCS
     * USB-C power legging
         * 1x ThinkBook 14s cooling fan (small)
         * 3x M2x10mm self-tapping screws
+        * *These are not required when using with AC power inlet skirt (power-inlet-extended-skirt.stl).*
 
 * Rosalina Theme front covers
     * Both left and right
